@@ -3,7 +3,7 @@
 #  Coursera Exploratory Data Analysis
 #  5-20-2016
 #
-#  Plot4.R 
+#  plot4.R 
 #
 #  Description:
 #

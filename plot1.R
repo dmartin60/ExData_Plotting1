@@ -1,9 +1,9 @@
 ###########################################################################################################
 #
-#  Coursera Exploratory Data Analysis
+#  Coursera Exploratory Data Analysis 
 #  5-20-2016
 #
-#  Plot1.R 
+#  plot1.R 
 #
 #  Description:
 #
